@@ -10,8 +10,6 @@ import java.util.Scanner;
 
 /**
  * @author Muhammad Ahmad Khan FA18-BCS-053 
- * @author Muneeb Ahmad FA18-BCS-079
- * @author Usama Abbasi FA18-BSE-096
  */
 public class Ecommerce_BakeryShop {
 
